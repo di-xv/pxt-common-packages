@@ -50,7 +50,6 @@
         "screen": "file:../screen",
         "mixer": "file:../mixer",
         "power": "file:../power",
-        "led": "file:../led",
-        "extra-buttons": "file:../extra-buttons"
+        "led": "file:../led"
     }
 }

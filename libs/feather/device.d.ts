@@ -38,4 +38,6 @@ declare namespace pins {
     //% fixedInstance shim=pxt::getPinCfg(CFG_PIN_D13)
     const D13: PwmPin;
 
+    //% fixedInstance shim=pxt::getPinCfg(CFG_PIN_A10)
+    const HETAO_IO: DigitalInOutPin;
 }
